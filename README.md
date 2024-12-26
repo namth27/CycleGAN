@@ -1,4 +1,4 @@
-# cycleGAN
+# CycleGAN
 This repository contains a simple implementation of image style transfer using **CycleGAN**. The project focuses on unpaired image-to-image translation, enabling the transformation of images between two domains (e.g., photo to painting).
 
 ## Dataset
